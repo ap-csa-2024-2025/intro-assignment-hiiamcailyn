@@ -22,3 +22,13 @@ kgkdfngkfkgn
 I want to drink boba 
 I want to go to college 
 I am a dog person 
+
+
+
+public class FirstProgram
+{
+    public static vid main(String[] args) 
+    {
+        System.out.printLn("2 + 3")
+    }   
+}
