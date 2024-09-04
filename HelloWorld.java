@@ -20,7 +20,7 @@ public class HelloWorld
     System.out.println("                                                                Coding is fun!");
     System.out.println("                                                                Coding is fun!");
     System.out.println("                                                                Coding is fun!");
-    System.out.println("=========\r\n" + //
+    System.out.println("                                                                =========\r\n" + //
                                                                                        "= 0   0 =   Java is Awesome!\r\n" + //
                                                                                        "=   v   =\r\n" + //
                                                                                        "=========");
